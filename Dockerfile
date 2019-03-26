@@ -1,4 +1,4 @@
-FROM jenins/jenkins:lts-slim
+FROM jenkins/jenkins:lts
 LABEL maintainer "wulifu <kevinsocial@outlook.com>"
 
 USER root
